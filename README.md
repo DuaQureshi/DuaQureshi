@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DuaQureshi/DuaQureshi/main/Dua.png" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Dua</h1>
 <h3 align="center">Final Year Computer Science Student 💻🚀</h3>
 
@@ -12,7 +16,7 @@
 ---
 
 ### 🌐 Connect with me:
-<p align="left">
+<p align="center">
   <a href="#"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
   <a href="#"><img src="https://img.icons8.com/color/48/instagram-new.png"/></a>
   <a href="#"><img src="https://img.icons8.com/color/48/youtube-play.png"/></a>
@@ -21,7 +25,7 @@
 ---
 
 ### 🛠️ Languages and Tools:
-<p>
+<p align="center">
 <img src="https://img.icons8.com/color/48/html-5.png"/>
 <img src="https://img.icons8.com/color/48/css3.png"/>
 <img src="https://img.icons8.com/color/48/javascript.png"/>
