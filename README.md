@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DuaQureshi/DuaQureshi/main/Dua.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/DuaQureshi/DuaQureshi/main/Dua.png" width="80%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Dua</h1>
