@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DuaQureshi/DuaQureshi/main/Dua.png" width="100%" height="400px" />
+  <img src="https://raw.githubusercontent.com/DuaQureshi/DuaQureshi/main/Dua.png" width="100%" height="350px" />
 </p>
 
-<h1 align="center">Hi , I'm Dua</h1>
+<h1 align="center">Hi , I'm Dua 👋</h1>
 <h3 align="center">Final Year Computer Science Student 💻🚀</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/DuaQureshi/DuaQureshi/main/Dua.mp4">
+
+<!-- RIGHT SIDE IMAGE (Use GIF instead of MP4) -->
+<img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/DuaQureshi/DuaQureshi/main/Dua.gif">
+
 ---
 
 ### 🔗 About Me
@@ -38,21 +41,21 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DuaQureshi&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🔥 Streak Stats:
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=DuaQureshi&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📌 Most Used Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuaQureshi&layout=compact&theme=tokyonight" />
 </p>
 
 ---
