@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/DuaQureshi/DuaQureshi/main/Dua.png" width="100%" height="350px" />
 </p>
 
-<h1 align="center">Hi , I'm Dua 👋</h1>
+<h1 align="center">Hi , I'm Dua </h1>
 <h3 align="center">Final Year Computer Science Student 💻🚀</h3>
 
 <!-- RIGHT SIDE IMAGE (Use GIF instead of MP4) -->
