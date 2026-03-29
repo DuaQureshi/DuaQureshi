@@ -6,8 +6,9 @@
 <h3 align="center">Final Year Computer Science Student 💻🚀</h3>
 
 <!-- RIGHT SIDE IMAGE (Use GIF instead of MP4) -->
-<img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/DuaQureshi/DuaQureshi/main/Dua.mp4">
-
+<a href="https://raw.githubusercontent.com/DuaQureshi/DuaQureshi/main/Dua.mp4">
+  <img align="right" width="320" src="https://img.icons8.com/fluency/400/video.png"/>
+</a>
 ---
 
 ### 🔗 About Me
