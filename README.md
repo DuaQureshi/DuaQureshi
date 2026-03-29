@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi , I'm Dua</h1>
 <h3 align="center">Final Year Computer Science Student 💻🚀</h3>
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="400" src=Dua.mp4"">
 ---
 
 ### 🔗 About Me
